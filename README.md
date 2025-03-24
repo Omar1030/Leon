@@ -56,8 +56,8 @@ This project has no license
 
 ## 📩 Contact
 
-📧 Email: omarabdelmoaty816@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/omar-abdelmoaty-a6a9531b1/
+- 📧 Email: omarabdelmoaty816@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-abdelmoaty-a6a9531b1/
 
 ---
 
