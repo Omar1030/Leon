@@ -56,7 +56,7 @@ The following improvements have been implemented:
 - ✅ **Title**: Document has a <title> element
 - ✅ **Use Proper and Meta Descriptions**: Document has a meta description
 - ✅ **Optimize Images for SEO**: Add alt text to describe images for search engines & accessibility.
-- ✅ **Use Heading Tags Properly (<h1> - <h6>)**: The <h1> tag should contain the main topic of the page, Use <h2>, <h3> for subheadings to improve readability.
+- ✅ **Use Heading Tags Properly (`<h1>` - `<h6>`)**: The `<h1>` tag should contain the main topic of the page, Use `<h2>`, `<h3>` for subheadings to improve readability.
 - ✅ **Improve Website Speed & Performance**: Use lazy loading for images.
 - ✅ **Make the Website Mobile-Friendly**: Use responsive design (meta viewport tag).
 
