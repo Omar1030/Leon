@@ -1,12 +1,12 @@
 # Website
 
 ## 📖 Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Accessibility Improvements](#accessibility-improvements)
-- [License](#license)
-- [Contact](#contact)
+- Installation
+- Usage
+- Technologies Used
+- Accessibility Improvements
+- icense
+- Contact
 
 ---
 
