@@ -1,4 +1,4 @@
-# Website
+# Website "FOOTCAP"
 
 ## 📖 Table of Contents
 - Installation
