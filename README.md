@@ -14,8 +14,7 @@
 
 1. **Clone the Repository**
    ```bash
-   [git clone [https://github.com/yourusername/shoe-store-website.git
-   cd shoe-store-website](https://github.com/Omar1030/Foot.git)](https://github.com/Omar1030/Leon.git)
+   git clone https://github.com/Omar1030/Leon.git
    ```
 2. **Open the project**
    - Open `index.html` in your preferred browser.
