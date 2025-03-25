@@ -46,6 +46,7 @@ To make the website more accessible, the following improvements have been implem
 - ✅ **High Contrast Colors**: Checked contrast using WebAIM tools.
 - ✅ **Responsive & Mobile-Friendly Design**: Implement viewport meta tag for mobile accessibility.
 - ✅ **Test with Accessibility Tools**: Use Lighthouse (Chrome DevTools) to check accessibility scores.
+- ✅ **Use ARIA Landmarks for Assistive Technologies**: Add ARIA attributes to improve screen reader navigation.
 
 ---
 
